@@ -2,3 +2,4 @@
 - [多叉树的绘制算法研究及实现](http://pan.baidu.com/s/1gen83kf)
 - [HTML 5 Audio/Video DOM playbackRate 属性](http://www.w3school.com.cn/tags/av_prop_playbackrate.asp)
 - [AngularJS Tutorial](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
+- [7 天玩转 ASP.NET MVC](https://segmentfault.com/a/1190000003502296)
