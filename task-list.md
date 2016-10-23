@@ -6,6 +6,6 @@
 - [ ] Fire Blog
 
 ## Doing
-
+- [ ] Watch Vedios on [Google Interview University](http://geek.csdn.net/news/detail/107064)
 
 ## Done
