@@ -1,4 +1,11 @@
 # Task List
 
 ## To Do
-- [] test
+- [ ] Cloud Application Development Groupwork
+- [ ] ECS-MUD
+- [ ] Fire Blog
+
+## Doing
+
+
+## Done
