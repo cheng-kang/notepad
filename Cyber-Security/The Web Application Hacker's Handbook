@@ -1,0 +1,11 @@
+# Notes - The Web Application Hacker's Handbook
+
+1. Mapping the Application
+
+  - Web spidering
+    - tools: burp suite, WebScarab, Zed Attack Proxy
+    - robots.txt
+      contains a list of URLs that a site doesn't want web spiders to visit.
+      (sometimes it contains sensitive information)
+    - it could be dangerous to run web spiders on some application, because they may contain urls that perform administrative functionalities like delete users...
+    - user-directed spidering
