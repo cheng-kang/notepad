@@ -8,3 +8,4 @@
   - Level 1 tackles the question of handling complexity by using divide and conquer, breaking a large service endpoint down into multiple resources.
   - Level 2 introduces a standard set of verbs so that we handle similar situations in the same way, removing unnecessary variation.
   - Level 3 introduces discoverability, providing a way of making a protocol more self-documenting.
+- [HTTP Status Codes](https://httpstatuses.com/)
