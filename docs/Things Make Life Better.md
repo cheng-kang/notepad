@@ -12,3 +12,9 @@
 2. OneTab
 
   > 当您发现自己有太多的标签页时，单击OneTab图标，将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们。当您的标签页位于OneTab列表时，您将节省高达95％的内存，因为你将减少Google Chrome浏览器中打开的标签页的数量。
+
+3. Papier
+
+4. Manichi
+
+5. The Great Suspender
