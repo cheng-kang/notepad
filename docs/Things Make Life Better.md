@@ -1,14 +1,14 @@
 # Things Make Life Better
 
-1. Chrome Extension
+## Chrome Extension
 
-  1. Tampermonkey
+1. Tampermonkey
 
-    > Tampermonkey is the most popular userscript manager for Google Chrome. Userscripts (also known as Greasemonkey scripts) are little computer programs that for example add a download button to the YouTube page, cleanup your Facebook timeline or help playing an online game.
+  > Tampermonkey is the most popular userscript manager for Google Chrome. Userscripts (also known as Greasemonkey scripts) are little computer programs that for example add a download button to the YouTube page, cleanup your Facebook timeline or help playing an online game.
 
-    - [Download YouTube Videos as MP4](https://greasyfork.org/zh-CN/scripts/1317-download-youtube-videos-as-mp4)
-    - [YouTube +](https://greasyfork.org/zh-CN/scripts/9932-youtube)
-   
- 2. OneTab
- 
+  - [Download YouTube Videos as MP4](https://greasyfork.org/zh-CN/scripts/1317-download-youtube-videos-as-mp4)
+  - [YouTube +](https://greasyfork.org/zh-CN/scripts/9932-youtube)
+
+2. OneTab
+
   > 当您发现自己有太多的标签页时，单击OneTab图标，将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们。当您的标签页位于OneTab列表时，您将节省高达95％的内存，因为你将减少Google Chrome浏览器中打开的标签页的数量。
