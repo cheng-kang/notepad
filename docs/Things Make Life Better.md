@@ -15,6 +15,8 @@
 
 3. Papier
 
-4. Manichi
+  > Did you know that the average person has about 60,000 thoughts a day? And that we spend about 7 hours looking at screens? Now with the Papier extension for Chrome, just open a new tab and trap your best thoughts. They'll be backed up directly to Chrome: no accounts, no syncing. 
+  
+4. the great suspender
 
-5. The Great Suspender
+  > Unload, park, suspend tabs to reduce memory footprint of chrome. 
