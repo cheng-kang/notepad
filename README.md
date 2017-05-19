@@ -3,9 +3,20 @@
 - [Task List](https://github.com/cheng-kang/notepad/blob/master/task-list.md)
 
 ## Links
+
+**Drawing**
+
 - [Smooth Freehand Drawing on iOS](http://code.tutsplus.com/tutorials/smooth-freehand-drawing-on-ios--mobile-13164)
 - [Drawing smooth lines with cocos2d ios inspired by Paper](http://merowing.info/2012/04/drawing-smooth-lines-with-cocos2d-ios-inspired-by-paper/)
 - [Bezier paths in practice (I): From basic shapes to custom designable controls](http://digitalleaves.com/blog/2015/07/bezier-paths-in-practice-i-from-basic-shapes-to-custom-designable-controls/)
+- [iOS SDK: Advanced Freehand Drawing Techniques](https://code.tutsplus.com/tutorials/ios-sdk-advanced-freehand-drawing-techniques--mobile-15602)
+- [Core Graphics Tutorial Part 3: Patterns and Playgrounds](https://www.raywenderlich.com/90695/modern-core-graphics-with-swift-part-3)
+- [Core Graphics, Part 3: Lines](https://www.bignerdranch.com/blog/core-graphics-part-three-lines/)
+- [Patterns](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/dq_patterns/dq_patterns.html)
+- [iOS Brush Hardness like Photoshop](http://stackoverflow.com/questions/11945735/ios-brush-hardness-like-photoshop)
+- [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2)
+
+**Other**
 
 - Slides for Text Mining: [slides](https://docs.google.com/presentation/d/1rprhyK6lsA2ygJwAJIP14BT_Bb8D-PVn4sasq4IsYKw/edit?usp=sharing)
 - [多叉树的绘制算法研究及实现](http://pan.baidu.com/s/1gen83kf)
