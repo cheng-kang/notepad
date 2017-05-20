@@ -28,3 +28,5 @@
 
 - [ca1](https://dribbble.com/shots/1916234-Traveller-App/attachments/328725)
 - [ca2](https://dribbble.com/shots/1709807-GIF-Blog-App)
+
+- [Deploy Vue Webpack App on Heroku](https://medium.com/@sagarjauhari/quick-n-clean-way-to-deploy-vue-webpack-apps-on-heroku-b522d3904bc8)
