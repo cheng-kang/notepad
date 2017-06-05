@@ -16,6 +16,11 @@
 - [iOS Brush Hardness like Photoshop](http://stackoverflow.com/questions/11945735/ios-brush-hardness-like-photoshop)
 - [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2)
 
+**AV**
+
+- [AVFoundation(一):基础知识](http://www.jianshu.com/p/485e946f80b4)
+- [AVFoundation(二)：核心AVAsset](http://www.jianshu.com/p/9805be76ee68)
+
 **Other**
 
 - Slides for Text Mining: [slides](https://docs.google.com/presentation/d/1rprhyK6lsA2ygJwAJIP14BT_Bb8D-PVn4sasq4IsYKw/edit?usp=sharing)
