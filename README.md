@@ -27,7 +27,7 @@
 
 **Python**
 - [Python 2 Doc & Source Code](https://fossies.org/dox/Python-2.7.13/index.html)
-- [**MUST WATCH**Pragmatic Unicode, or, How do I stop the pain?](https://youtu.be/sgHbC6udIqc)
+- [**MUST WATCH** - Pragmatic Unicode, or, How do I stop the pain?](https://youtu.be/sgHbC6udIqc)
 - [Original blog post of the above video](https://nedbatchelder.com/text/unipain.html)
 - Another useful function: `urllib.quote()`. 
   
