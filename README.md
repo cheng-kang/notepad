@@ -33,6 +33,10 @@
   
   When you are making HTTP requests, if the uri contains special character like `ć`, say `http://dbpedia.org/data/Mileva Marić.json`, use `urlib.quote()` to replace special characters with "%xx". If you do this, you will be sending your request to `http://dbpedia.org/data/Mileva%20Mari%C4%87.json`, great; if you don't do this, the requesting uri will be `http://dbpedia.org/data/Mileva Mari\xc4\x87.json` or `http://dbpedia.org/data/Mileva Mari\u0107.json`, and you are fucked. :)
 
+**CSS**
+
+- [Responsive Embedded Content](https://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/)
+
 **Other**
 
 - [Enable CORS to server](https://enable-cors.org/server.html)
