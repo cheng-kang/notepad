@@ -4,6 +4,10 @@
 
 ## Links
 
+**JavaScript**
+
+- [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+
 **iOS Drawing**
 
 - [Smooth Freehand Drawing on iOS](http://code.tutsplus.com/tutorials/smooth-freehand-drawing-on-ios--mobile-13164)
