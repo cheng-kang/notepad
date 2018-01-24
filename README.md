@@ -7,6 +7,7 @@
 **JavaScript**
 
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+- [Calc Polyfill](https://github.com/closingtag/calc-polyfill)
 
 **iOS Drawing**
 
