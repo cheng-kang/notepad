@@ -4,6 +4,10 @@
 
 ## Links
 
+**React**
+
+- [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
+
 **JavaScript**
 
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
