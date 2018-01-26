@@ -6,7 +6,7 @@
 
 **React**
 
-- [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
+- [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc) (read the comments as well)
 
 **JavaScript**
 
