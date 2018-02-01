@@ -2,6 +2,10 @@
 
 - [Task List](https://github.com/cheng-kang/notepad/blob/master/task-list.md)
 
+## Commands
+
+- `sudo lsof -i tcp:3000`
+
 ## Links
 
 **React**
