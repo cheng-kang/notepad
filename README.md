@@ -6,6 +6,17 @@
 
 - `sudo lsof -i tcp:3000`
 
+## Node JS
+
+1. Trace `UnhandledPromiseRejectionWarning`
+
+    ```
+    process.on('unhandledRejection', (reason, p) => {
+      console.log('Unhandled Rejection at: Promise', p, 'reason:', reason);
+      // application specific logging, throwing an error, or other logic here
+    })
+    ```
+
 ## Links
 
 **React**
