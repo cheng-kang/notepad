@@ -2,9 +2,10 @@
 
 - [Task List](https://github.com/cheng-kang/notepad/blob/master/task-list.md)
 
-## Commands
+## Magic Commands
 
 - `sudo lsof -i tcp:3000`
+- `babel src --out-dir lib`
 
 ## Node JS
 
